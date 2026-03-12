@@ -1,18 +1,27 @@
-- My dotfiles for linux -
+~ My dotfiles for linux ~
 _______________________________________________________________________________________________________________________________________________________________________
--- Principal Theme - Catppuccin Macchiato - Macchiato Flamingo: https://github.com/catppuccin/catppuccin
 
--- Terminal: Kitty
+-> DE : KDE Plasma
 
--- Shell: Fish
+-> Principal Theme : Catppuccin Macchiato - https://github.com/catppuccin/catppuccin
 
--- Cursor: https://github.com/catppuccin/cursors
+-> Terminal : Kitty with Catppuccin Macchiato theme - https://github.com/catppuccin/kitty
 
--- File Manager: Dolphin
+-> Shell : Fish
 
--- Greeter: SDDM with https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
+-> Prompt : Starship with Catppuccin powerline - https://starship.rs/presets/catppuccin-powerline
 
--- Fonts: JetBrainsMono Nerd Font
+-> Cursor : Catppuccin Macchiato Dark - https://github.com/catppuccin/cursors
+
+-> Icons : Colloid Purple Dark - https://store.kde.org/p/2205840
+
+-> File Manager : Dolphin
+
+-> Greeter : SDDM with Catppuccin Machiatto theme - https://github.com/catppuccin/sddm 
+
+-> Fonts : JetBrainsMono Nerd Font
+
+-> Top bar : Panel Colorizer widget with Translucent theme
 
 
 __________________________________________________________________________________________________________________________________________________________________________
@@ -21,5 +30,3 @@ Screenshots:
 
 <img width="1920" height="1080" alt="Copie d&#39;écran_20260306_190253" src="https://github.com/user-attachments/assets/6206e430-8781-4c79-aead-687f389d3fb3" />
 
-
-<img width="1920" height="1080" alt="Copie d&#39;écran_20260306_190412" src="https://github.com/user-attachments/assets/b2cf2657-f76b-40be-9719-14d2cd968b95" />
