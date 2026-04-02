@@ -27,7 +27,9 @@ ________________________________________________________________________________
 
 -> Top bar : Panel Colorizer widget with Translucent theme
 
--> 
+-> Kwin script for tilling : Krohnkite
+
+-> Corner and Border : https://github.com/matinlotfali/KDE-Rounded-Corners
 
 -> Wallpaper I use : https://github.com/orangci/walls-catppuccin-mocha
 
