@@ -51,6 +51,17 @@
       "key": "  ",
       "keyColor": "blue"
     },
+    {
+      "type": "uptime",
+      "key": "  ",
+      "keyColor": "blue"
+    },
+    {
+      "type": "command",
+      "key": "  󱦟",
+      "keyColor": "blue",
+      "text": "bash -c 'DAYS=$(( ($(date +%s) - $(stat -c %W /)) / 86400 )); DATE=$(LC_TIME=C date -d @$(stat -c %W /) \"+%b %d, %Y\"); echo \"$DAYS days ($DATE)\"'"
+    },
     "break",
     {
       "type": "custom",
