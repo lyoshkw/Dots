@@ -38,8 +38,7 @@ ________________________________________________________________________________
 
 Screenshots: 
 
-<img width="1916" height="1080" alt="Copie d&#39;écran_20260416_120918" src="https://github.com/user-
-attachments/assets/9922afb4-4e7f-4107-82bf-1b4816c31739" />
+<img width="1916" height="1080" alt="Copie d&#39;écran_20260416_120918" src="https://github.com/user-attachments/assets/ff294715-9ddb-4fb3-95d4-23656495c569" />
 
 
 <img width="1920" height="1080" alt="Copie d&#39;écran_20260416_120949" src="https://github.com/user-attachments/assets/1b49eeec-f3c6-4817-9a6b-21c724b5ab46" />
