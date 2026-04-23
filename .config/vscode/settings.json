@@ -1,0 +1,118 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.codeLensFontFamily": "JetBrainsMono Nerd Font",
+    "editor.linkedEditing": true,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "none",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.title": " ",
+    "window.titleBarStyle": "native",
+    "window.controlsStyle": "hidden",
+    "window.commandCenter": false,
+    "window.autoDetectHighContrast": false,
+    "files.autoSave": "afterDelay",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "workbench.activityBar.location": "top",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "workbench.editor.empty.hint": "hidden",
+    "security.allowedUNCHosts": [
+        "wsl.localhost",
+        "wsl$"
+    ],
+    "go.toolsManagement.autoUpdate": true,
+    "remote.autoForwardPortsSource": "hybrid",
+    "security.workspace.trust.untrustedFiles": "open",
+    "glassit.alpha": 220,
+    "apc.electron": {
+        "frame": false,
+        "titleBarStyle": "hidden"
+    },
+    "apc.font.family": "JetBrainsMono Nerd Font",
+    "apc.monospace.font.family": "JetBrainsMono Nerd Font",
+    "update.mode": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "git.confirmSync": false,
+    "python.languageServer": "None",
+    "explorer.decorations.colors": false,
+    "explorer.compactFolders": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "chat.agent.enabled": false,
+    "workbench.editor.editorActionsLocation": "titleBar",
+    // =========================
+    // 🎨 CATPPUCCIN MACCHIATO FLAMINGO
+    // =========================
+    "workbench.colorCustomizations": {
+        "editor.background": "#24273a",
+        "editor.foreground": "#f4dbd6",
+        "editorCursor.foreground": "#f4dbd6",
+        "editor.selectionBackground": "#5b4e5f",
+        "editor.selectionForeground": "#f4dbd6",
+        "editor.lineHighlightBackground": "#1e2030",
+        "sideBar.background": "#1e2030",
+        "sideBar.foreground": "#cad3f5",
+        "activityBar.background": "#181926",
+        "activityBar.foreground": "#f4dbd6",
+        "titleBar.activeBackground": "#1e2030",
+        "titleBar.activeForeground": "#f4dbd6",
+        "statusBar.background": "#181926",
+        "statusBar.foreground": "#f4dbd6",
+        "tab.activeBackground": "#24273a",
+        "tab.activeForeground": "#f4dbd6",
+        "tab.inactiveBackground": "#1e2030",
+        "tab.inactiveForeground": "#939ab7",
+        "editorGroup.border": "#363a4f",
+        "panel.border": "#363a4f",
+        "sideBar.border": "#363a4f",
+        "list.activeSelectionBackground": "#5b4e5f",
+        "list.activeSelectionForeground": "#f4dbd6",
+        "list.hoverBackground": "#1e2030",
+        "terminal.background": "#24273a",
+        "terminal.foreground": "#f4dbd6"
+    },
+    // =========================
+    // 🎯 SYNTAX HIGHLIGHTING
+    // =========================
+    "editor.tokenColorCustomizations": {
+        "comments": {
+            "foreground": "#5b6078",
+            "fontStyle": "italic"
+        },
+        "keywords": {
+            "foreground": "#c6a0f6"
+        },
+        "strings": {
+            "foreground": "#a6da95"
+        },
+        "numbers": {
+            "foreground": "#f5a97f"
+        },
+        "functions": {
+            "foreground": "#8aadf4"
+        },
+        "variables": {
+            "foreground": "#f4dbd6"
+        },
+        "types": {
+            "foreground": "#f0c6c6"
+        }
+    }
+}
